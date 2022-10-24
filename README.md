@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Reema alnefai
+- 👀 I’m interested in programming , web development , databases ,AI, data anylsis and UI/UX.  
+- 🌱 I’m currently learning new programming language
