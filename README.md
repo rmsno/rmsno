@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Reema alnefai , < CS Student >
+- 👋  Hi, I’m Reema  , < CS Student >
 - 👀 I’m interested in programming , web development , database and AI.  
 - 🌱 I’m currently learning new programming language
 - 🌱 Curious in data analysis and UI design to develop valuable projects. 
